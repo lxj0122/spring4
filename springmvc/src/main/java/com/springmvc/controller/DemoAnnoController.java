@@ -1,4 +1,4 @@
-package com.springmvc.Controller;
+package com.springmvc.controller;
 
 import com.springmvc.domain.DemoObj;
 import org.springframework.stereotype.Controller;
